@@ -4,7 +4,7 @@ import com.auroraboreibis.cards.Deck;
 import java.util.Scanner;
 
 public class Game {
-    // todo - make sure everything works..
+    // todo - make sure everything works..and maybe add in more comments
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
         int input, money = 100, bet;
@@ -57,6 +57,7 @@ public class Game {
             case 3:
                 return;
         }
+        //todo - show how much money the player walks out with
     }
 
     public static void showInfo(){
