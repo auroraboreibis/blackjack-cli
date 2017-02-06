@@ -14,7 +14,8 @@ What things you need to run the software and how to install them
 Java 8 runtime
 ```
 
-Don't have the Java 8 runtime? [Install the runtime with ninite](https://ninite.com/java8/), it's a simple installer.
+Don't have the Java 8 runtime? [Install the runtime with ninite](https://ninite.com/java8/), it's a simple installer for Windows.
+Or you can check out the official [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) download page.
 
 ### Installing
 
