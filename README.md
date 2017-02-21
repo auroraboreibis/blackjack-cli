@@ -3,6 +3,7 @@
 Command line blackjack written in Java.
 This is a project for learning Java. More card games will probably be added
 in the future in their own package.
+Currently applying Coles branded Surface Spray to eliminate bugs left in the project from silly programming.
 
 ## Getting Started
 
