@@ -3,7 +3,6 @@
 src/test
 src/main/resources
 build
-gradle
 launch-build.sh
 *.class
 *.iml
