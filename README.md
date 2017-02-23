@@ -3,7 +3,6 @@
 Command line blackjack written in Java.
 This is a project for learning Java. More card games will probably be added
 in the future in their own package.
-Currently applying Coles branded Surface Spray to eliminate bugs left in the project from silly programming.
 
 ## Getting Started
 
@@ -15,30 +14,39 @@ What things you need to run the software and how to install them
 Java 8 runtime
 ```
 
-Don't have the Java 8 runtime? [Install the runtime with ninite](https://ninite.com/java8/), it's a simple installer for Windows.
-Or you can check out the official [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) download page.
-
 ### Installing
 
-Downloading a copy of the project with git
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
 
 ```
-git clone https://github.com/auroraboreibis/blackjack-cli.git
+Give the example
 ```
 
-or you can just download the [zip](https://github.com/auroraboreibis/blackjack-cli/archive/master.zip).
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
 
 
-### Running
+```
+Give an example
+```
 
-Unzip the download of the project and open the folder. If you're on Windows, you can double-click WindowsLaunch.bat to start the program.
+### And coding style tests
 
-If your on linux or mac, download the zip, change directory to the project folder and run this once:
+Explain what these tests test and why
+
 ```
-chmod +x launcher.sh
+Give an example
 ```
-then:
-```
-./launcher.sh
-```
-to start the program.
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
