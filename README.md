@@ -22,7 +22,7 @@ Or you can check out the official [Oracle](http://www.oracle.com/technetwork/jav
 Downloading a copy of the project with git
 
 ```
-git clone https://github.com/auroraboreibis/blackjack-cli.git
+git clone https://github.com/auroraboreibis/cardgames.git
 ```
 
 or you can just download the [zip](https://github.com/auroraboreibis/blackjack-cli/archive/master.zip).
