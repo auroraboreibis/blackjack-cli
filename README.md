@@ -1,4 +1,4 @@
-# blackjack-cli
+# cardgames
 
 Command line blackjack written in Java.
 This is a project for learning Java. More card games will probably be added
@@ -14,39 +14,30 @@ What things you need to run the software and how to install them
 Java 8 runtime
 ```
 
+Don't have the Java 8 runtime? [Install the runtime with ninite](https://ninite.com/java8/), it's a simple installer for Windows.
+Or you can check out the official [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) download page.
+
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Downloading a copy of the project with git
 
 ```
-Give the example
+git clone https://github.com/auroraboreibis/blackjack-cli.git
 ```
 
-And repeat
+or you can just download the [zip](https://github.com/auroraboreibis/blackjack-cli/archive/master.zip).
 
+
+### Running
+
+Unzip the download of the project and open the folder. If you're on Windows, you can double-click WindowsLaunch.bat to start the program.
+
+If your on linux or mac, download the zip, change directory to the project folder and run this once:
 ```
-until finished
+chmod +x launcher.sh
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
+then:
 ```
-Give an example
+./launcher.sh
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+to start the program.
