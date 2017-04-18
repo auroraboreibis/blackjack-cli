@@ -16,7 +16,7 @@ public class Deck {
 
         for (Card.Suit s : suits){
             for (Card.Rank r : ranks){
-                this.cards.add(new Card(r,s));
+                this.cards.add(new Card(r,s,false));
             }
         }
         currentCardIndex = cards.size()-1;

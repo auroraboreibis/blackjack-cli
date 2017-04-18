@@ -42,4 +42,8 @@ public class Hand {
             hand.add(cards.get(i));
         }
     }
+
+    public ArrayList<Card> getHand(){
+        return this.hand;
+    }
 }
