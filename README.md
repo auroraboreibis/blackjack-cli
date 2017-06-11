@@ -1,7 +1,7 @@
 # cardgames
 
 Command line card games written in Java.
-This is a project for learning Java. More card games will probably be added
+This is a learning exercise/project for Java. More card games will probably be added
 in the future in their own package.
 
 ## Getting Started
